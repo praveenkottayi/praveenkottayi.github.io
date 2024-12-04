@@ -1,4 +1,4 @@
-theme: minima  # You can switch this to another theme like "jekyll-theme-cayman"
+theme: jekyll-theme-cayman  # You can switch this to another theme like "jekyll-theme-cayman"
 
-title: test
+title: Welcome to praveenkottayi blog
 description: A blog about my thoughts on maths, birds, astronomy and running.
